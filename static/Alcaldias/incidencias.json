@@ -1,0 +1,42 @@
+{
+    "Alcaldia_Iztapalapa": {
+        "consumo_alcohol_calle": 85.8,
+        "robos_y_asaltos": 73.1,
+        "vandalismo": 48.6,
+        "disparos_frecuentes": 75.4,
+        "venta_o_consumo_de_drogas": 63.1,
+        "extorsión": 18.0,
+        "robo_o_asalto": 29.3,
+        "robo_parcial_de_vehículo": 11.5
+    },
+    "Alcaldia_Gustavo_A_Madero": {
+        "consumo_alcohol_calle": 84.4,
+        "robos_y_asaltos": 80.1,
+        "vandalismo": 48.1,
+        "disparos_frecuentes": 75.2,
+        "venta_o_consumo_de_drogas": 78.9,
+        "extorsión": 11.4,
+        "robo_o_asalto": 13.9,
+        "robo_parcial_de_vehículo": 13.6
+    },
+    "Alcaldia_Tlalpan": {
+        "consumo_alcohol_calle": 74.4,
+        "robos_y_asaltos": 67.8,
+        "vandalismo": 48.3,
+        "disparos_frecuentes": 61.3,
+        "venta_o_consumo_de_drogas": 55.4,
+        "extorsión": 14.5,
+        "robo_o_asalto": 13.1,
+        "robo_parcial_de_vehículo": 10.2
+    },
+    "Alcaldia_Miguel_Hidalgo": {
+        "consumo_alcohol_calle": 67.7,
+        "robos_y_asaltos": 67.3,
+        "vandalismo": 44.0,
+        "disparos_frecuentes": 49.9,
+        "venta_o_consumo_de_drogas": 58.7,
+        "extorsión": 7.5,
+        "robo_o_asalto": 15.4,
+        "robo_parcial_de_vehículo": 9.4
+    }
+}
